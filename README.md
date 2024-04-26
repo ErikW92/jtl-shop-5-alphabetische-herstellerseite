@@ -5,3 +5,8 @@ Die Anleitung dazu findet ihr hier: https://jtl-devguide.readthedocs.io/projects
 
 Wenn ihr ansonsten keine Anpassungen an den Files gemacht habt, könnt ihr alle Daten so übernehmen und eure Files damit überschreiben.
 
+Damit die Änderungen sichtbar werden, müsst ihr das Theme (SCSS) kompilieren. Verwendet dazu am besten den JTL-Theme-Editor.
+Den findet ihr hier: https://gitlab.com/jtl-software/jtl-shop/plugins/jtl_theme_editor
+
+
+
