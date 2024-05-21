@@ -1,4 +1,4 @@
-# JTL-Shop-5-Alphabetisches-Inhaltsverzeichnis
+# JTL-Shop-5-alphabetische-Herstellerseite
 Diese Files ermöglichen die Anzeige und Steuerung einer alphabetischen Herstellerseite im JTL-Shop 5
 
 Erstellt euch für die Anpassung unbedingt zuerst ein Child-Theme, sonst kann es sein, dass eure Änderungen nach dem nächsten Update verloren gehen.
